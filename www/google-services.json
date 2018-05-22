@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779326446252",
+    "firebase_url": "https://notify1-7fe91.firebaseio.com",
+    "project_id": "notify1-7fe91",
+    "storage_bucket": "notify1-7fe91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779326446252:android:e0cccb2f02246ec2",
+        "android_client_info": {
+          "package_name": "com.phonegap.notificationtest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779326446252-pjm03ukv59spvjujj7s8nfvb0059s0cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0BUQahgk2rqwEKwece_eXg-C7PF7dIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
