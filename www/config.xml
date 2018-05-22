@@ -73,7 +73,7 @@
 				 
 				<!-- <plugin spec="https://github.com/edufruit/cordova-plugin-googleplus" /> -->
 
-				<plugin name="cordova-plugin-googleplus" source="git" spec="https://github.com/yourGithubUsername/cordova-plugin-googleplus"></plugin>
+				<plugin name="cordova-plugin-googleplus" source="git" spec="https://github.com/edufruit/cordova-plugin-googleplus"></plugin>
 				
             <content src="index.html" />
 			
