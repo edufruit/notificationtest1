@@ -21,7 +21,17 @@
             <plugin name="cordova-plugin-splashscreen" source="npm" spec="5.0.2"/>  
  
 
-
+ 
+			<!-- for notification via PUSH PLUGIN : json file is needed, push plugin is needed , firebase key is needed and it works, firebase plugin is not needed -->
+			<!-- for notification via PUSH PLUGIN : json file is needed, push plugin is needed , firebase key is needed and it works, firebase plugin is not needed -->
+			<!-- for notification via PUSH PLUGIN : json file is needed, push plugin is needed , firebase key is needed and it works, firebase plugin is not needed -->
+			<!-- for notification via PUSH PLUGIN : json file is needed, push plugin is needed , firebase key is needed and it works, firebase plugin is not needed -->
+			<!-- for notification via PUSH PLUGIN : json file is needed, push plugin is needed , firebase key is needed and it works, firebase plugin is not needed -->
+			<!-- for notification via PUSH PLUGIN : json file is needed, push plugin is needed , firebase key is needed and it works, firebase plugin is not needed -->
+			<!-- for notification via PUSH PLUGIN : json file is needed, push plugin is needed , firebase key is needed and it works, firebase plugin is not needed -->
+			
+			
+			
                 <hook src="scripts/cordova-google-services-version-gradle-fix.js" type="before_prepare" />
 
 
