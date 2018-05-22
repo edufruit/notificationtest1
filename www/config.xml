@@ -42,14 +42,16 @@
 				<param name="SENDER_ID" value="1:779326446252:android:e0cccb2f02246ec2" />
         </plugin> 
 
-<!-- 
+		<!-- 
             <plugin name="cordova-plugin-googleplus" source="npm" spec="5.3.0"></plugin>  
-            <platform name="android">   
+		-->        
+
+			<platform name="android">   
 
                 <resource-file src="app/google-services.json" target="app/google-services.json" />  
 
             </platform>      
- -->
+
 
             <content src="index.html" />
 
